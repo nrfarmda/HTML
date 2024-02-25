@@ -28,7 +28,7 @@ Struktur dasar HTML merupakan sebuah **case insensitive yang terdiri beberapa e
 ```   
 
 ### Hasil
-![dasarhtml|400](HTML/Perkenalan%20HTML/aset/dasarhtml.png) 
+![dasarhtml](aset/dasarhtml.png) 
 # Anatomi Elemen HTML 
 Elemen dalam HTML adalah sebuah **komponen yang menyusun dokumen HTML**. Elemen kadang juga disebut sebagai node, karena ia merupakan salah satu jenis node yang menyusun dokumen HTML dalam diagram HTML tree.
 
