@@ -44,7 +44,7 @@ Elemen dalam HTML adalah sebuah **komponen yang menyusun dokumen HTML**. Elemen
 ``` 
 
 ### Hasil
-![web|400](HTML/Perkenalan%20HTML/aset/web.png)
+![web](aset/web.png)
 
 # Tag Dasar
 ## Heading 
@@ -89,7 +89,7 @@ Penjelasan :
 - Tag `<h6>` Menunjukkan tingkatan judul yang lebih rendah atau menjadi sangat kecil
 
 Hasil :
-![bold|400](HTML/Perkenalan%20HTML/aset/bold.png)
+![bold](aset/bold.png)
 ## Paragraf 
 ### Contoh
 ```HTML
@@ -114,7 +114,7 @@ Hasil :
 -  Tag `<i>` digunakan untuk membuat teks miring untuk menekankan makna semantik dan diakhiri dengan tag `</i>` sebagai penutup
 -  Tag `<br>` digunakann untuk membuat baris baru atau sering disebut yaitu membuat enter dan diakhiri dengan penutu `</br>` .
 ### Hasil
-![paragraf|400](HTML/Perkenalan%20HTML/aset/paragraf.png)
+![paragraf](aset/paragraf.png)
 ## Align
 ### Contoh
 ```html
@@ -146,7 +146,7 @@ Hasil :
 - `right `: membuat seluruh teks ke sisi kanan halaman web, penulisannya align=”right”
 - `justify `: meregangkan baris sehingga setiap baris memiliki lebar yang sama (seperti dikoran dan majalah) penulisannya align=”justify”
 ### Hasil
-![[html|700](aset/html.png)
+![[html](aset/html.png)
 ## Komentar
 HTML juga menggunakan tag khusus untuk komentar. Untuk membuat komentar di HTML, kita juga menggunakan awalan `<!--` dan penutup `-->` 
 ### Contoh 
@@ -157,7 +157,7 @@ HTML juga menggunakan tag khusus untuk komentar. Untuk membuat komentar di HTML,
 ### Penjelasan
 -
 ### Hasil 
-![atribut|400](HTML/Perkenalan%20HTML/aset/atribut.png)
+![atribut](aset/atribut.png)
 ## List
 List adalah fungsi dalam HTML yang digunakan untuk menampilkan daftar dari sesuatu. Dalam HTML, tag list terdiri dari 2 jenis, `<ol>` **ordered list (berurutan)** dan `<ul>` **unordered list (tidak berurutan)**. Ordered list akan ditampilkan dengan atau huruf, sedangkan unodered list dengan bulatan atau kotak ataupun simbol lainnya. 
 
@@ -194,7 +194,7 @@ List adalah fungsi dalam HTML yang digunakan untuk menampilkan daftar dari sesua
 ```
 
 ### Hasil
-![kopi|400](HTML/Perkenalan%20HTML/aset/kopi.png)
+![kopi](aset/kopi.png)
 
 ## Link
 Link dapat ditemukan di hampir semua halaman web. Link/Tautan memungkinkan sebuah teks yang ketika di-klik akan pindah ke halaman lainnya. HTML menggunakan tag `<a>` untuk keperluan ini. Link ditulis dengan `<a>` yang merupakan singkatan cari anchor.
@@ -212,7 +212,7 @@ Atribut penting lainnya dari tag `<a>` adalah `<target>`. Atribut target menentu
 ```
 
 ### Hasil
-![anchor|400](HTML/Perkenalan%20HTML/aset/anchor.png)
+![anchor](aset/anchor.png)
 ## Multimedia
 ### Gambar
 Dalam HTML gambar didefinisikan dengan tag `<img>`. Tag `<img>` adalah tag kosong, hanya berisi atribut saja, dan tidak memiliki tag penutup.
@@ -242,10 +242,10 @@ Dalam tag `<img>` terdapat juga atribut `<widht>` dan `<height>` untuk mengatur 
 ```
 
 ### Hasil
-![jeno|400](HTML/Perkenalan%20HTML/aset/jeno.png)
+![jeno](aset/jeno.png)
 
 Berikut letak yang dimuat pada web diatas
-![folder|400](HTML/Perkenalan%20HTML/aset/folder.png)
+![folder](aset/folder.png)
 
 Gambar diatas adalah contoh gambar `<jeno>` yang berada di folder `<struktur html>` yang akan di tampilkan di web.
 ### Video
@@ -269,7 +269,7 @@ Fitur HTML5 mencakup dukungan audio dan video asli tanpa memerlukan Flash. Tag `
 Konten berupa teks "Browser anda tidak mendukung elemen `<video>`." pada tag `<video>` akan ditampilkan jika browser tidak mendukung elemen tersebut. Sehingga sebenarnya bagian ini dapat dihilangkan.
 
 ### Hasil
-![video|500](HTML/Perkenalan%20HTML/aset/video.png)
+![video](aset/video.png)
 
 ### Audio
 Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian fitur HTML5 untuk menampilkan audio asli di halaman web tanpa memerlukan Flash sebagaimana pada HTML versi 4. Yang penting untuk diatur pada tag ini adalah atribut `<src>` yang berfungsi untuk mengidentifikasi sumber media. Selain itu, terdapat pula atribut `<controls>` agar pengguna dapat memutar dan menjeda media.
@@ -284,10 +284,10 @@ Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian 
 Konten berupa teks "Browser anda tidak mendukung elemen `<video>`. pada tag `<video>` aan ditampilkan jika browser tidak mendukung elemen tersebut. sehingga sebenarnya bagian ini dapat dihilangkan.
 
 ### Hasil
-![audio|400](HTML/Perkenalan%20HTML/aset/audio.png)
+![audio](aset/audio.png)
 
 Berikut letak yang dimuat pada web diatas
-![olivia|500](HTML/Perkenalan%20HTML/aset/olivia.png)
+![olivia](aset/olivia.png)
 
 ## Halaman web lain
 Elemen `<iframe>` dapat digunakan untuk menampilkan halaman website lain dalam suatu website. Atau menampilkan dokumen HTML lain dalam sebuah website. Mudahnya, bisa dibilang _**website dalam website**_.
@@ -329,7 +329,7 @@ Dalam tag `<iframe>` ada beberapa atribut yang penting seperti :
 ```
 
 ### Hasil
-![weblain|500](HTML/Perkenalan%20HTML/aset/weblain.png)
+![weblain](aset/weblain.png)
 ## Tabel
 Table dalam HTML didefinisikan dengan tag `<tables>`.
 - Setiap baris tabel didefinisikan dengan tag `<tr>`.
@@ -410,7 +410,7 @@ selain itu terdepat pula beberapa atribut tabel yang penting untuk diketahui yai
 ```
 
 ### Hasil
-![tabel|400](HTML/Perkenalan%20HTML/aset/tabel.png)
+![tabel](aset/tabel.png)
 
 ## Tabel 1
 ### Contoh 
@@ -465,7 +465,7 @@ selain itu terdepat pula beberapa atribut tabel yang penting untuk diketahui yai
 ```
 
 ### Hasil
-![hari|400](HTML/Perkenalan%20HTML/aset/hari.png)
+![hari](aset/hari.png)
 
 Analisis :
 Untuk tabel `nama hari` dan `nama bulan` merupakan 2 kolom tetapi di tambahkan atribut `colspan` yang membuat 2 kolom menjadi 1.
@@ -616,7 +616,7 @@ Contoh :
 ```
 
 Hasil :
-![formulir|600](HTML/Perkenalan%20HTML/aset/formulir.png)
+![formulir](aset/formulir.png)
 
 Beberapa atribut yang digunakan pada contoh di atas yang perlu untuk diperjelas yaitu sebagai berikut:
 - `name` - digunakan sebagai nama variabel yang akan diproses oleh web server (contoh menggunakan PHP).
@@ -687,7 +687,7 @@ https://jagongoding.com/web/php/web-dinamis/membuat-dan-menangani-form/https://j
 - `<input type="submit" value="kirim"/>` adalah tombol submit yang akan mengirimkan data form ke server ketika diklik.
 - `<input type="submit" value="reset"/>` adalah tombol reset yang akan menghapus semua inputan form ketika diklik.
 ### Hasil
-![form|400](HTML/Perkenalan%20HTML/aset/form.png)
+![form](aset/form.png)
 ## Tabel 
 ### Contoh
 ```html
@@ -726,7 +726,7 @@ https://jagongoding.com/web/php/web-dinamis/membuat-dan-menangani-form/https://j
 7. Beberapa teks seperti "Senin", "Selasa", "April", dan "Mei" ditempatkan di dalam sel-sel tabel menggunakan tag `<td>`. Sel "Juni" pada kolom bulan memiliki atribut `align="center"` untuk mengatur teks menjadi tengah.
 8. Setelah tabel selesai, diakhiri dengan tag `</table>`.
 ### Hasil
-![[juni|400](aset/juni.png)
+![[juni](aset/juni.png)
 # DIV & SPAN
 ## DIV
 `<div>` adalah tag HTML yang digunakan untuk membuat blok konten. Tag ini digunakan untuk mengelompokkan konten dan memberikan atribut tertentu pada blok tersebut.
@@ -748,7 +748,7 @@ https://jagongoding.com/web/php/web-dinamis/membuat-dan-menangani-form/https://j
 ```
 
 ### Hasil 
-![[div|400](aset/div.png)
+![[div](aset/div.png)
 ## SPAN
 `<span>` adalah tag HTML yang digunakan untuk membuat blok konten yang tidak memiliki atribut tertentu.
 ### Contoh
@@ -766,6 +766,6 @@ https://jagongoding.com/web/php/web-dinamis/membuat-dan-menangani-form/https://j
 </html>
 ```
 ### Hasil
-![[span|400](aset/span.png)
+![[span](aset/span.png)
 
 
