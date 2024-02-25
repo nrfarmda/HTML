@@ -8,10 +8,10 @@ HTML ibarat struktur tubuh manusia, `</html>` kayak tulang yg atur setiap bagian
 2. Body 
 	 Sebagai tempat komponen-komponen website dibuat kayak teks, heading, paragraf, gambar, tabel, link, dll. 
 	 
-![html|500](html.jpg)
+![html](aset/html.jpg)
 
 Maka hasilnya juga sesuai ekspektasi bakal kaya gini 
 
-![pertama|500](pertama.jpg)
+![pertama](aset/pertama.jpg)
 
 Sebenarnya kita bisa styling setiap HTML ini kayak ganti background atau ganti ukuran, Semakin banyak tag dan stylingnya di HTML semakin berantakan juga kode yg kita buat, Makanya tahun 1994 diciptakan yg namanya styling sheet / CSS oleh pak hakon wiyung Lee, tujuannya  telling dan struktur htmlnya terpisah dan jadi lebih mudah untuk  dipelihara sampai saat ini. Styling ini sebenarnya sederhana. 
